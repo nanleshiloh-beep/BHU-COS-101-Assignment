@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#Main {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#Main-up {
+    text-align: center;
+}
+
+#Info h1, #Info h2, #Info h3, #Info h4 {
+    margin: 10px 0;
+}
+
+#Formua {
+    margin-top: 20px;
+}
+
+#Formua ol {
+    padding-left: 20px;
+}
+
+#Formua li {
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
